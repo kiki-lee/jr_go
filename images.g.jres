@@ -4,15 +4,15 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "bg1"
     },
-    "image5": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALALAAAAAAAAu0xEBAAAAAC7TERFBAAAALtMRFQEAAALu0xERAQAALu7TEREBAAAsLtMREQEAAAAu0xERAQAAAC7TEREBAAAALtMRAQAAAAAsAsAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "nut"
-    },
     "image4": {
         "data": "hwQQABAAAAAAAAAAAAAA4AAAAMzMzMzeAADAvLu7u+0AAMy7u7u77gAAvLu7u7vuAAC8u7u7u+0AALy7v4u73gAAvLu7j7HuAAC8u7uPse4AALy7v4u77gAAvLu7u7veAAC8u7u7u+0AAMy7u7u77gAAwLy7u7vtAAAAzMzMzNwAAAAAAAAA4A==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "gopher"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALALAAAAAAAAu0xEBAAAAAC7TERFBAAAALtMRFQEAAALu0xERAQAALu7TEREBAAAsLtMREQEAAAAu0xERAQAAAC7TEREBAAAALtMRAQAAAAAsAsAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "nut_sprite"
     },
     "anim3": {
         "namespace": "myAnimations",
